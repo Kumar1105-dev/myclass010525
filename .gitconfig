@@ -1,0 +1,8 @@
+[user]
+	name = kumaresh
+	email = kumaresh81.outlook.com
+[merge]
+	tool = vimdiff
+	conflictstyle = diff3
+[merge "tool"]
+	prompt = false
