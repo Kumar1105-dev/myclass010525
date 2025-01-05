@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1736097396,,"wq!"
+|2,0,1736097464,,"wq!"
 :wqa!
 |2,0,1736095071,,"wqa!"
 :diffg RE
@@ -47,30 +47,36 @@
 |3,0,3,1,3,0,1736070596,"<<<<<<< HEAD","thirdline","======="
 
 # File marks:
-'0  2  4  ~/test
-|4,48,2,4,1736097396,"~/test"
-'1  1  4  ~/test
-|4,49,1,4,1736097318,"~/test"
-'2  1  4  ~/test
-|4,50,1,4,1736097318,"~/test"
-'3  1  11  ~/rebase/setting
-|4,51,1,11,1736096045,"~/rebase/setting"
-'4  3  4  ~/rebase/home
-|4,52,3,4,1736095985,"~/rebase/home"
-'5  2  7  ~/rebase/home
-|4,53,2,7,1736095925,"~/rebase/home"
-'6  2  7  ~/rebase/home
-|4,54,2,7,1736095925,"~/rebase/home"
-'7  1  7  ~/rebase/home
-|4,55,1,7,1736095880,"~/rebase/home"
-'8  1  7  ~/rebase/home
-|4,56,1,7,1736095880,"~/rebase/home"
-'9  1  7  ~/rebase/home
-|4,57,1,7,1736095880,"~/rebase/home"
+'0  3  4  ~/test
+|4,48,3,4,1736097464,"~/test"
+'1  2  4  ~/test
+|4,49,2,4,1736097396,"~/test"
+'2  2  4  ~/test
+|4,50,2,4,1736097396,"~/test"
+'3  1  4  ~/test
+|4,51,1,4,1736097318,"~/test"
+'4  1  4  ~/test
+|4,52,1,4,1736097318,"~/test"
+'5  1  4  ~/test
+|4,53,1,4,1736097318,"~/test"
+'6  1  4  ~/test
+|4,54,1,4,1736097318,"~/test"
+'7  1  11  ~/rebase/setting
+|4,55,1,11,1736096045,"~/rebase/setting"
+'8  3  4  ~/rebase/home
+|4,56,3,4,1736095985,"~/rebase/home"
+'9  2  7  ~/rebase/home
+|4,57,2,7,1736095925,"~/rebase/home"
 
 # Jumplist (newest first):
+-'  3  4  ~/test
+|4,39,3,4,1736097464,"~/test"
+-'  2  4  ~/test
+|4,39,2,4,1736097457,"~/test"
 -'  2  4  ~/test
 |4,39,2,4,1736097396,"~/test"
+-'  1  4  ~/test
+|4,39,1,4,1736097387,"~/test"
 -'  1  4  ~/test
 |4,39,1,4,1736097387,"~/test"
 -'  1  4  ~/test
@@ -83,6 +89,30 @@
 |4,39,1,11,1736096045,"~/rebase/setting"
 -'  1  11  ~/rebase/setting
 |4,39,1,11,1736096045,"~/rebase/setting"
+-'  1  11  ~/rebase/setting
+|4,39,1,11,1736096045,"~/rebase/setting"
+-'  1  11  ~/rebase/setting
+|4,39,1,11,1736096045,"~/rebase/setting"
+-'  1  11  ~/rebase/setting
+|4,39,1,11,1736096045,"~/rebase/setting"
+-'  1  11  ~/rebase/setting
+|4,39,1,11,1736096045,"~/rebase/setting"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
+-'  3  4  ~/rebase/home
+|4,39,3,4,1736095985,"~/rebase/home"
 -'  3  4  ~/rebase/home
 |4,39,3,4,1736095985,"~/rebase/home"
 -'  3  4  ~/rebase/home
@@ -115,6 +145,38 @@
 |4,39,2,7,1736095977,"~/rebase/home"
 -'  2  7  ~/rebase/home
 |4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095977,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
+-'  2  7  ~/rebase/home
+|4,39,2,7,1736095925,"~/rebase/home"
 -'  2  7  ~/rebase/home
 |4,39,2,7,1736095925,"~/rebase/home"
 -'  2  7  ~/rebase/home
@@ -164,7 +226,37 @@
 -'  1  7  ~/rebase/home
 |4,39,1,7,1736095918,"~/rebase/home"
 -'  1  7  ~/rebase/home
-|4,39,1,7,1736095880,"~/rebase/home"
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
+-'  1  7  ~/rebase/home
+|4,39,1,7,1736095918,"~/rebase/home"
 -'  1  7  ~/rebase/home
 |4,39,1,7,1736095880,"~/rebase/home"
 -'  1  7  ~/rebase/home
@@ -177,108 +269,17 @@
 |4,39,1,7,1736095880,"~/rebase/home"
 -'  1  7  ~/rebase/home
 |4,39,1,7,1736095880,"~/rebase/home"
--'  1  7  ~/rebase/home
-|4,39,1,7,1736095880,"~/rebase/home"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
--'  3  0  ~/conflict/test_LOCAL_1889
-|4,39,3,0,1736095071,"~/conflict/test_LOCAL_1889"
 
 # History of marks within files (newest to oldest):
 
 > ~/test
-	*	1736097394	0
-	"	2	4
-	^	2	5
-	.	2	4
+	*	1736097463	0
+	"	3	4
+	^	3	5
+	.	3	4
 	+	1	5
-	+	2	4
+	+	2	5
+	+	3	4
 
 > ~/rebase/setting
 	*	1736096044	0
